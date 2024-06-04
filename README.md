@@ -1,6 +1,3 @@
-Sure, here's a draft for your GitHub README:
-
----
 
 # Credit Risk Analysis and Portfolio Optimization Using Machine Learning
 
